@@ -1,0 +1,34 @@
+body {
+    font-size: 24px;
+    background: rgb(241,19,238);
+    background: radial-gradient(circle, rgba(241,19,238,1) 0%, rgba(4,242,238,1) 79%, rgba(0,212,255,1) 100%);
+}
+p.italic {
+    font-weight: italic;
+}
+p.bold {
+    font-style: bold;
+}
+code {
+    color: blue;
+}
+.pictureButtons {
+    width: 150px;
+    height: 150px;
+}
+.textUnderPicture {
+	font-size: medium;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+  }
+  .buttonGit {
+	display: flex;
+	justify-content: center;
+  }
+  .headerText {
+	font-size: 70px;
+	font-weight: bold;
+	font-family: 'Courier New', Courier, monospace;
+	color: black;
+	text-align: center;
+  }
